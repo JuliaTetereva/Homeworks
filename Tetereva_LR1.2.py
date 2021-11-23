@@ -7,7 +7,7 @@ elif sign=='+':
     print('a+b=',a+b) 
 elif sign=='-': 
     print('a-b=',a-b) 
-elif sign=='': 
+elif sign=='*': 
     print('ab=',a*b) 
 elif sign=='/': 
     print('a/b=',a/b) 
